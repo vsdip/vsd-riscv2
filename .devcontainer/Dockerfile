@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     gawk libmpc-dev libmpfr-dev libgmp-dev \
     zlib1g-dev libexpat1-dev \
     device-tree-compiler libfdt-dev \
-    python3 iverilog gtkwave \
+    python3 iverilog gtkwave leafpad \
     libboost-regex-dev libboost-system-dev \
         libx11-dev libxext-dev libxrender-dev libxpm-dev libxaw7-dev libcairo2-dev libfontconfig1-dev \
     libreadline-dev libncurses-dev flex bison gawk tcsh \
