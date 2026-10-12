@@ -1,0 +1,17 @@
+set_io  LEDS[0] 39
+set_io  LEDS[1]	41
+set_io  LEDS[2]	40
+set_io  LEDS[3] 25
+set_io  LEDS[4] 26
+
+set_io  RESET 23
+
+set_io  CLK 28
+
+set_io  TXD 4
+set_io  RXD 3
+set_io GPIO[0] 38
+set_io GPIO[1] 42
+set_io GPIO[2] 43
+set_io GPIO[3] 44
+set_io GPIO[4] 45
